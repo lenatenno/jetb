@@ -1,0 +1,337 @@
+html, body {
+    min-height: 100%;
+}
+
+body {
+    margin: 0px;
+}
+
+
+header {
+    height: 848px;
+    background-color: #525b64;
+}
+.footer {
+    padding-top: 88px;
+
+}
+.wrapper {
+
+}
+
+.logopng {
+    margin-top: 203px;
+}
+.lodowrap {
+
+}
+
+.header {
+    width: 604px;
+    margin: auto;
+}
+
+.text1 {
+    color: #ffffff;
+    font-size: 24pt;
+    font-family: 'Montserrat-Bold';
+
+    padding: 10px;
+}
+
+.lorem {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15pt;
+    font-family: 'Ubuntu-R';
+    text-align: center;
+}
+
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url(../fonts/Monserrat/Montserrat-Bold.otf);
+}
+
+@font-face {
+    font-family: Montserrat-Black;
+    src: url(../fonts/Monserrat/Montserrat-Black.otf);
+}
+
+@font-face {
+    font-family: Montserrat-ExtraBold;
+    src: url(../fonts/Monserrat/Montserrat-ExtraBold.otf);
+}
+
+@font-face {
+    font-family: Ubuntu-R;
+    src: url(../fonts/Ubuntu/Ubuntu-R.ttf);
+}
+@font-face {
+    font-family: Ubuntu-M;
+    src: url(../fonts/Ubuntu/Ubuntu-M.ttf);
+}
+@font-face {
+    font-family: Ubuntu-B;
+    src: url(../fonts/Ubuntu/Ubuntu-B.ttf);
+}
+@font-face {
+    font-family: FontAwesome;
+    src: url(../fonts/FontAwesome/fontawesome-webfont.ttf);
+}
+
+.btn-my {
+    font-family: Montserrat, FontAwesome;
+    font-size: 14pt;
+    color: white;
+    background-color: #7ea4e8;
+    border-color: #ccc;
+    margin-right: 30px;
+}
+.btnpad {
+    padding-right: 5px;
+}
+.btn-my1 {
+
+    font-family: 'Montserrat';
+    color: white;
+    background-color: #6a7079;
+    border-color: #ccc;
+    font-size: 14pt;
+}
+
+
+.btn {
+
+    left: 1170px;
+    display: inline-block;
+    padding: 12px;
+    margin-bottom: 0;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+
+}
+
+
+a.btn {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.sbody {
+    height: 954px;
+    background-color: #ffffff;
+}
+
+.one {
+    font-family: 'Montserrat';
+    color: #6a7079;
+    font-size: 30pt;
+    padding-top: 111px;
+}
+.two {
+    font-family: 'Ubuntu-R';
+    font-size: 22pt;
+    color: #828689;
+    padding-bottom: 68px;
+}
+.two1 {
+    font-family: 'Ubuntu-R';
+    font-size: 22pt;
+    color: #828689;
+}
+a {
+    color: #6BD8D3;
+    text-decoration: none;
+}
+.foot {
+    bottom: 0;
+    margin: 0 auto;
+    height: 348px;
+    background-color: #525b64;
+}
+
+.copyright {
+    height: 42px;
+    background-color: #3f464c;
+}
+
+.row {
+
+}
+.speakers {
+    font-family: 'Ubuntu-R';
+    font-size: 16pt;
+    color: #828282;
+}
+.names {
+    font-family: 'Ubuntu-M';
+    font-size: 20pt;
+    color: #777a7d;
+}
+.lucy {
+    color: #6bd8d3;
+}
+hr {
+    border: none;
+    background-color: #f0f0f1;
+    color: #f0f0f1;
+    height: 8px;
+    margin-bottom: 125px;
+}
+.three {
+    width: 940px;
+    margin: 0 auto;
+    padding-top: 75px;
+    padding-bottom: 92px;
+}
+.video {
+height: 315px;
+}
+.video1 {
+    padding-top: 135px;
+}
+.big {
+    font-family: 'Montserrat';
+    font-size: 20pt;
+    color: #777a7d;
+    padding-left: 98px;
+}
+.middle {
+    font-family: 'Ubuntu-R';
+    font-size: 15pt;
+    color: #777a7d;
+    padding-left: 98px;
+}
+.small {
+    font-family: 'Ubuntu-R';
+    font-size: 14pt;
+    color: #777a7d;
+    padding-left: 98px;
+}
+.big1 {
+    font-family: 'Montserrat';
+    font-size: 20pt;
+    color: #777a7d;
+}
+.middle1 {
+    font-family: 'Ubuntu-R';
+    font-size: 15pt;
+    color: #777a7d;
+}
+.small1 {
+    font-family: 'Ubuntu-R';
+    font-size: 14pt;
+    color: #777a7d;
+}
+.wrapvid {
+    width: 1140px;
+}
+.linkvid {
+    text-align: center;
+    color: #65d2ce;
+    font-family: Montserrat-Bold, FontAwesome;
+    font-size: 15pt;
+    padding-left: 98px;
+}
+.linkvid1 {
+    text-align: center;
+    color: #65d2ce;
+    font-family: Montserrat-Bold, FontAwesome;
+    font-size: 15pt;
+}
+.yout {
+    padding-right: 97px;
+}
+.copyr {
+    font-family: Ubuntu-R, Ubuntu-M;
+    font-size: 17pt;
+    color: #8f9294;
+    width: 1140px;
+    Position:absolute;
+    bottom:0;
+}
+.bigf {
+    font-family: Ubuntu-R, Ubuntu-M, Ubuntu-B;
+    font-size: 23pt;
+    color: #ffffff;
+}
+.bign {
+    font-family: Ubuntu-M;
+    font-size: 18pt;
+    color: #ffffff;
+    margin-right: 50px;
+}
+.middlef {
+    font-family: Ubuntu-R, Ubuntu-M;
+    font-size: 13pt;
+    color: #ffffff;
+    margin-right: 50px;
+}
+.middlef1 {
+    font-family: Ubuntu-R;
+    font-size: 13pt;
+    color: #ffffff;
+    margin-right: 30px;
+}
+.box {
+    width: 458px;
+}
+.wid {
+    width: 1140px;
+    margin: 0 auto;
+}
+.spon {
+  margin-bottom: 320px;
+    padding: 70px;
+}
+.btns {
+    padding-top: 40px;
+}
+.btnglif {
+    margin-top: 20px;
+}
+li {
+    list-style-type: none;
+}
+ul {
+    margin-left: 0;
+    padding-left: 0;
+    padding: 5px;
+}
+.link {
+    font-family: Ubuntu-M, FontAwesome;
+    font-size: 15pt;
+}
+.sss {
+    width: 1140px;
+    margin: 0 auto;
+
+}
+.middlec {
+    font-family: Ubuntu-R, Ubuntu-M;
+    font-size: 15pt;
+    color: #cdd0d2;
+    display: inline-block;
+    vertical-align: middle;
+}
+.copyright {
+    margin-top: 60px;
+}
+.leftt {
+float: right;
+}
